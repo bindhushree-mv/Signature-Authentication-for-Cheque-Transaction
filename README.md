@@ -1,4 +1,4 @@
-# Signature-Authentication-for-Cheque
+# Signature Authentication for Cheque
 Overview
 The Signature Authentication for Cheque project is a Python-based graphical user interface (GUI) application designed to verify the authenticity of signatures on cheques. This application utilizes computer vision techniques to compare an uploaded cheque image with a reference signature image to determine if they match. The application is built using Tkinter for the GUI and OpenCV for image processing.
 
